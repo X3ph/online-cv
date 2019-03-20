@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Julien Mazoyer
+    tagline: Ingénieur Système
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: julien@mazoyer.me
+    phone: 06.68.62.12.10
+    #website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
     gitlab:
@@ -25,11 +25,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Français
+        level: Maternelle
 
-      - idiom: French
-        level: Professional
+      - idiom: Anglais
+        level: Professionnel
 
       - idiom: Spanish
         level: Professional
